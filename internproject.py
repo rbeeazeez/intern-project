@@ -15,7 +15,7 @@ print("Downloading image...")
 urllib.request.urlretrieve(img_dir_link, tem_file_name)
 print("Setting image as wallpaper")
 
-
+# change desktop background
 os.system("gsettings set org.gnome.desktop.background picture-uri file:///home/rbeeazeez/PycharmProjects/intern/backgro\
 und.jpg")
 
