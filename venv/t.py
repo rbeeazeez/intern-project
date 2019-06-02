@@ -1,0 +1,1 @@
+print('Hello dear!\nHow are you?\nHow\'s everyone?')
